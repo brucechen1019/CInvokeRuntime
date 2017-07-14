@@ -14,6 +14,8 @@ namespace SampleComponent
     public sealed class Assist
     {
         /*
+         * Issue: https://stackoverflow.com/questions/45051360/javascript-event-handler-listener-for-c-sharp-event 
+         *
          * reference: 
          *  https://msdn.microsoft.com/en-us/library/hh972883.aspx
          *  https://docs.microsoft.com/en-us/windows/uwp/winrt-components/walkthrough-creating-a-simple-windows-runtime-component-and-calling-it-from-javascript#prerequisites

@@ -1,0 +1,2 @@
+C:\Users\v-brucch\Documents\My Received Files\CInvokeRuntime\CInvokeRuntime\SampleComponent\SampleComponent.csproj;x86
+C:\Users\v-brucch\Documents\My Received Files\CInvokeRuntime\CInvokeRuntime\WinjsRuntime\WinjsRuntime.jsproj;x86

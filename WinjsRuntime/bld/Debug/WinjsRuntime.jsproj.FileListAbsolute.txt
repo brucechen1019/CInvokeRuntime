@@ -1,0 +1,4 @@
+C:\Users\v-brucch\Documents\My Received Files\CInvokeRuntime\CInvokeRuntime\WinjsRuntime\bin\Debug\SampleComponent.winmd
+C:\Users\v-brucch\Documents\My Received Files\CInvokeRuntime\CInvokeRuntime\WinjsRuntime\bin\Debug\SampleComponent.pdb
+C:\Users\v-brucch\Documents\My Received Files\CInvokeRuntime\CInvokeRuntime\WinjsRuntime\bin\Debug\SampleComponent.pri
+C:\Users\v-brucch\Documents\My Received Files\CInvokeRuntime\CInvokeRuntime\WinjsRuntime\bld\Debug\WinjsRuntime.jsprojResolveAssemblyReference.cache

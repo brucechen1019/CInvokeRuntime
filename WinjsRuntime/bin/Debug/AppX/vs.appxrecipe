@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SUNTEEN-PC</Machine>
+    <WindowsUser>v-xunwu</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b63e3589-022e-4b8d-8096-dfe13a0c3c16</PackageIdentityName>
+    <PackageIdentityPublisher>CN=v-xunwu</PackageIdentityPublisher>
+    <IntermediateOutputPath>E:\SpecialTopic\Javacript\CInvokeRuntime\WinjsRuntime\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>E:\SpecialTopic\Javacript\CInvokeRuntime\WinjsRuntime\bin\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>3C708741DDAF74E8FF35C904303374D72258DE02B00B05CDD3ACC1728B9DCF15</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b63e3589-022e-4b8d-8096-dfe13a0c3c16_1.0.0.0_neutral__1096e6a2etsa4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b63e3589-022e-4b8d-8096-dfe13a0c3c16_1096e6a2etsa4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b63e3589-022e-4b8d-8096-dfe13a0c3c16</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=v-xunwu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\SpecialTopic\Javacript\CInvokeRuntime\WinjsRuntime\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-13T07:37:52.124</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CInvokeRuntime\SampleComponent\bin\Debug\SampleComponent.winmd">
+      <PackagePath>SampleComponent.winmd</PackagePath>
+      <Modified>2017-07-13T07:37:49.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CInvokeRuntime\WinjsRuntime\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2017-07-13T06:48:15.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CInvokeRuntime\WinjsRuntime\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2017-04-13T05:58:51.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CInvokeRuntime\WinjsRuntime\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-13T05:58:51.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CInvokeRuntime\WinjsRuntime\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-13T05:58:51.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CInvokeRuntime\WinjsRuntime\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-13T05:58:51.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CInvokeRuntime\WinjsRuntime\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-13T05:58:51.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CInvokeRuntime\WinjsRuntime\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-13T05:58:51.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CInvokeRuntime\WinjsRuntime\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-04-13T05:58:51.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CInvokeRuntime\WinjsRuntime\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2017-07-13T08:00:28.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CInvokeRuntime\WinjsRuntime\lib\winjs-4.0.1\js\base.js">
+      <PackagePath>lib\winjs-4.0.1\js\base.js</PackagePath>
+      <Modified>2017-04-13T05:58:51.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CInvokeRuntime\WinjsRuntime\lib\winjs-4.0.1\js\ui.js">
+      <PackagePath>lib\winjs-4.0.1\js\ui.js</PackagePath>
+      <Modified>2017-04-13T05:58:51.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CInvokeRuntime\WinjsRuntime\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2017-07-13T06:51:11.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CInvokeRuntime\WinjsRuntime\lib\winjs-4.0.1\css\ui-light.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
+      <Modified>2017-04-13T05:58:51.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CInvokeRuntime\WinjsRuntime\lib\winjs-4.0.1\css\ui-dark.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
+      <Modified>2017-04-13T05:58:51.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CInvokeRuntime\WinjsRuntime\lib\winjs-4.0.1\fonts\Symbols.ttf">
+      <PackagePath>lib\winjs-4.0.1\fonts\Symbols.ttf</PackagePath>
+      <Modified>2017-04-13T05:58:51.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.15063.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2017-04-13T06:19:50.991</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\SpecialTopic\Javacript\CInvokeRuntime\WinjsRuntime\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-07-13T06:49:08.477</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
